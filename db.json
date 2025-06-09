@@ -4,7 +4,7 @@
       "id": "1",
       "index": "01",
       "name": " - CRVA - ERRO DOC",
-      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor do credenciado $value0, considerando erro conforme informação do presente expediente.\n\nAtt,",
       "numberFields": 3,
       "menu": "CONTABILIDADE",
       "submenu": "RETENÇÕES",
