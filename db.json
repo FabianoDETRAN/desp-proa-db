@@ -171,7 +171,7 @@
           "id": 3,
           "description": "FOLHA",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -189,7 +189,7 @@
           "description": "Fl. Alvará",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -217,7 +217,7 @@
           "description": "Fl. Manif.",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -235,7 +235,7 @@
           "description": "Fl. Manif.",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -273,14 +273,14 @@
           "description": "Fl. Cálculo",
           "value": "",
           "position": "right",
-          "size": "30px."
+          "size": "80px."
         },
         {
           "id": 2,
           "description": "Fl. Manif.",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -298,7 +298,7 @@
           "description": "Fl. Manif.",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -354,7 +354,7 @@
           "description": "Fl. ",
           "value": "02",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -490,14 +490,14 @@
           "description": "Valor Guia",
           "value": "",
           "position": "right",
-          "size": "100px"
+          "size": "150px"
         },
         {
           "id": 3,
           "description": "Fls. Manif.",
           "value": "02-04",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -523,14 +523,14 @@
           "description": "Valor Guia",
           "value": "",
           "position": "right",
-          "size": "100px"
+          "size": "150px"
         },
         {
           "id": 3,
           "description": "Fls. Manif.",
           "value": "02-04",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -548,14 +548,14 @@
           "description": "Fls. Leilão",
           "value": "02-04 e 100",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         },
         {
           "id": 2,
           "description": "Fls. COD",
           "value": "110-111",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         },
         {
           "id": 3,
@@ -570,7 +570,7 @@
           "description": "Valor Guia",
           "value": "",
           "position": "right",
-          "size": "100px"
+          "size": "150px"
         },
         {
           "id": 5,
@@ -585,21 +585,21 @@
           "description": "Valor Guia",
           "value": "",
           "position": "right",
-          "size": "100px"
+          "size": "150px"
         },
         {
           "id": 7,
           "description": "Fl. GAD-E",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         },
         {
           "id": 8,
           "description": "Ano IPVA",
           "value": "2021",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         },
         {
           "id": 9,
@@ -620,7 +620,7 @@
           "description": "Fl. Emolum.",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         },
         {
           "id": 12,
@@ -634,7 +634,7 @@
           "description": "Fl. Guincho",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         },
         {
           "id": 14,
@@ -662,7 +662,7 @@
           "description": "Fl. Fatura",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         },
         {
           "id": 18,
@@ -676,7 +676,7 @@
           "description": "Fl. Recibo",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -702,14 +702,14 @@
           "description": "Valor Guia",
           "value": "",
           "position": "right",
-          "size": "100px"
+          "size": "150px"
         },
         {
           "id": 3,
           "description": "Fls. Anexos NFs",
           "value": "00-00",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         },
         {
           "id": 4,
@@ -723,7 +723,7 @@
           "description": "Fls. Manif.",
           "value": "02-04",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -741,14 +741,14 @@
           "description": "Placa",
           "value": "",
           "position": "left",
-          "size": "50px"
+          "size": "100px"
         },
         {
           "id": 2,
           "description": "Fl. Juiz",
           "value": "02",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -773,7 +773,7 @@
           "description": "Fl. Liquidação",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -791,7 +791,7 @@
           "description": "Placa",
           "value": "",
           "position": "left",
-          "size": "50px"
+          "size": "100px"
         }
       ]
     },
@@ -857,7 +857,7 @@
           "description": "Fls. Anexos",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         },
         {
           "id": 2,
@@ -896,7 +896,7 @@
           "description": "Fl. Despacho",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -914,7 +914,7 @@
           "description": "Fl. Despacho",
           "value": "",
           "position": "right",
-          "size": "30px"
+          "size": "80px"
         }
       ]
     },
@@ -952,7 +952,7 @@
           "description": "Placa",
           "value": "",
           "position": "left",
-          "size": "50px"
+          "size": "100px"
         },
         {
           "id": 2,
