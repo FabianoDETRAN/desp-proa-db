@@ -10,22 +10,11 @@
       "submenu": "RETENÇÕES",
       "fields": [
         {
-          "id": 1,
-          "description": "Valor",
-          "value": "value_crva_doc",
-          "position": "right"
-        },
-        {
           "id": 2,
           "description": "CRVA",
           "value": "CRVA0",
-          "position": "left"
-        },
-        {
-          "id": 3,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "left",
+          "size": "100"
         }
       ]
     },
@@ -1333,8 +1322,8 @@
       "name": "TESTE",
       "text": "TESTE",
       "numberFields": 0,
-      "menu": "TESTE",
-      "submenu": "TESTE",
+      "menu": "DINFRA",
+      "submenu": "DESPACHOS GERAIS",
       "fields": []
     }
   ]
