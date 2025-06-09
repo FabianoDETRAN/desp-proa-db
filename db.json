@@ -22,28 +22,17 @@
       "id": "2",
       "index": "02",
       "name": " - CRVA - ERRO 233",
-      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor do credenciado $value0, considerando erro conforme informação do presente expediente.\n\nAtt,",
       "numberFields": 3,
       "menu": "CONTABILIDADE",
       "submenu": "RETENÇÕES",
       "fields": [
         {
-          "id": 1,
-          "description": "Valor",
-          "value": "value_crva_233",
-          "position": "right"
-        },
-        {
           "id": 2,
           "description": "CRVA",
           "value": "CRVA0",
-          "position": "left"
-        },
-        {
-          "id": 3,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "left",
+          "size": "100px"
         }
       ]
     },
@@ -51,28 +40,17 @@
       "id": "3",
       "index": "03",
       "name": " - CFC - ERRO GERAL",
-      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor do credenciado $value0, considerando erro conforme informação do presente expediente.\n\nAtt,",
       "numberFields": 3,
       "menu": "CONTABILIDADE",
       "submenu": "RETENÇÕES",
       "fields": [
         {
-          "id": 1,
-          "description": "Valor",
-          "value": "value_cfc_cnh",
-          "position": "right"
-        },
-        {
           "id": 2,
           "description": "CFC",
           "value": "CFC00",
-          "position": "left"
-        },
-        {
-          "id": 3,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "left",
+          "size": "100px"
         }
       ]
     },
@@ -80,28 +58,17 @@
       "id": "4",
       "index": "04",
       "name": " - CFC/MÉDICO - ERRO",
-      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, e do valor de $value2, do Médico Credenciado $value3, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor do credenciado $value0, e do valor do Médico Credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
       "numberFields": 5,
       "menu": "CONTABILIDADE",
       "submenu": "RETENÇÕES",
       "fields": [
         {
-          "id": 1,
-          "description": "Valor CFC",
-          "value": "value_cfc_mp_cnh",
-          "position": "right"
-        },
-        {
           "id": 2,
           "description": "CFC",
           "value": "CFC00",
-          "position": "left"
-        },
-        {
-          "id": 3,
-          "description": "Valor MÉDICO",
-          "value": "value_cfc_mp_cnh",
-          "position": "right"
+          "position": "left",
+          "size": "100px"
         },
         {
           "id": 4,
@@ -110,12 +77,6 @@
           "position": "left",
           "placeholder": "Nome e RG",
           "size": "500px"
-        },
-        {
-          "id": 5,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
         }
       ]
     },
@@ -123,28 +84,17 @@
       "id": "5",
       "index": "05",
       "name": " - CFC/PSICÓLOGO - ERRO",
-      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, e do valor de $value2, do Psicólogo Credenciado $value3, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor do credenciado $value0, e do valor do Psicólogo Credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
       "numberFields": 5,
       "menu": "CONTABILIDADE",
       "submenu": "RETENÇÕES",
       "fields": [
         {
-          "id": 1,
-          "description": "Valor CFC",
-          "value": "value_cfc_mp_cnh",
-          "position": "right"
-        },
-        {
           "id": 2,
           "description": "CFC",
           "value": "CFC00",
-          "position": "left"
-        },
-        {
-          "id": 3,
-          "description": "Valor PSICÓLOGO",
-          "value": "value_cfc_mp_cnh",
-          "position": "right"
+          "position": "left",
+          "size": "100px"
         },
         {
           "id": 4,
@@ -153,12 +103,6 @@
           "position": "left",
           "placeholder": "Nome e RG",
           "size": "500px"
-        },
-        {
-          "id": 5,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
         }
       ]
     },
@@ -166,17 +110,11 @@
       "id": "6",
       "index": "06",
       "name": " - MÉDICO - ERRO",
-      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do Médico credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor do Médico credenciado $value0, considerando erro conforme informação do presente expediente.\n\nAtt,",
       "numberFields": 3,
       "menu": "CONTABILIDADE",
       "submenu": "RETENÇÕES",
       "fields": [
-        {
-          "id": 1,
-          "description": "Valor MÉDICO",
-          "value": "value_cfc_cnh",
-          "position": "right"
-        },
         {
           "id": 2,
           "description": "MÉDICO",
@@ -184,12 +122,6 @@
           "position": "left",
           "placeholder": "Nome e RG",
           "size": "500px"
-        },
-        {
-          "id": 3,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
         }
       ]
     },
@@ -197,17 +129,11 @@
       "id": "7",
       "index": "07",
       "name": " - PSICÓLOGO - ERRO",
-      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do Psicólogo credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor do Psicólogo credenciado $value0, considerando erro conforme informação do presente expediente.\n\nAtt,",
       "numberFields": 3,
       "menu": "CONTABILIDADE",
       "submenu": "RETENÇÕES",
       "fields": [
-        {
-          "id": 1,
-          "description": "Valor PSICÓLOGO",
-          "value": "value_cfc_cnh",
-          "position": "right"
-        },
         {
           "id": 2,
           "description": "PSICÓLOGO",
@@ -215,12 +141,6 @@
           "position": "left",
           "placeholder": "Nome e RG",
           "size": "500px"
-        },
-        {
-          "id": 3,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
         }
       ]
     },
@@ -236,25 +156,22 @@
         {
           "id": 1,
           "description": "CREDENCIADO",
-          "position": "left"
+          "position": "left",
+          "size": "100px"
         },
         {
           "id": 2,
           "description": "PORTARIA",
           "value": "",
           "position": "right",
-          "placeholder": "Nº Portaria"
+          "placeholder": "Nº Portaria",
+          "size": "100px"
         },
         {
           "id": 3,
           "description": "FOLHA",
-          "position": "right"
-        },
-        {
-          "id": 4,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -271,13 +188,8 @@
           "id": 1,
           "description": "Fl. Alvará",
           "value": "",
-          "position": "right"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -289,14 +201,7 @@
       "numberFields": 1,
       "menu": "CONTABILIDADE",
       "submenu": "OUTROS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "11",
@@ -311,13 +216,8 @@
           "id": 1,
           "description": "Fl. Manif.",
           "value": "",
-          "position": "right"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -334,13 +234,8 @@
           "id": 1,
           "description": "Fl. Manif.",
           "value": "",
-          "position": "right"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -352,14 +247,7 @@
       "numberFields": 1,
       "menu": "CONTABILIDADE",
       "submenu": "OUTROS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "14",
@@ -369,14 +257,7 @@
       "numberFields": 1,
       "menu": "CONTABILIDADE",
       "submenu": "OUTROS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "15",
@@ -391,19 +272,15 @@
           "id": 1,
           "description": "Fl. Cálculo",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "30px."
         },
         {
           "id": 2,
           "description": "Fl. Manif.",
           "value": "",
-          "position": "right"
-        },
-        {
-          "id": 3,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -420,13 +297,8 @@
           "id": 1,
           "description": "Fl. Manif.",
           "value": "",
-          "position": "right"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -445,12 +317,6 @@
           "value": "",
           "position": "left",
           "size": "500px"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
         }
       ]
     },
@@ -462,14 +328,7 @@
       "numberFields": 1,
       "menu": "CONTABILIDADE",
       "submenu": "OUTROS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "42",
@@ -479,14 +338,7 @@
       "numberFields": 1,
       "menu": "CONTABILIDADE",
       "submenu": "OUTROS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "46",
@@ -501,13 +353,8 @@
           "id": 1,
           "description": "Fl. ",
           "value": "02",
-          "position": "right"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -519,14 +366,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "RETORNO ASSESSORIA JURÍDICA",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "19",
@@ -536,14 +376,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "RETORNO ASSESSORIA JURÍDICA",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "20",
@@ -553,14 +386,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "RETORNO ASSESSORIA JURÍDICA",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "21",
@@ -570,14 +396,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "RETORNO DRV",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "22",
@@ -587,14 +406,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "RETORNO DRV",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "23",
@@ -604,14 +416,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "RETORNO DRV",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "24",
@@ -621,14 +426,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "RETORNO HABILITAÇÃO",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "25",
@@ -638,14 +436,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "RETORNO HABILITAÇÃO",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "26",
@@ -655,14 +446,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "DEPÓSITO/LEILÃO",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "27",
@@ -672,14 +456,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "DEPÓSITO/LEILÃO",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "28",
@@ -689,14 +466,7 @@
       "numberFields": 1,
       "menu": "FINANCEIRO",
       "submenu": "DEPÓSITO/LEILÃO",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "29",
@@ -712,25 +482,22 @@
           "description": "GAD-L",
           "value": "",
           "position": "left",
-          "placeholder": "Nº. Guia"
+          "placeholder": "Nº. Guia",
+          "size": "150px"
         },
         {
           "id": 2,
           "description": "Valor Guia",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 3,
           "description": "Fls. Manif.",
           "value": "02-04",
-          "position": "right"
-        },
-        {
-          "id": 4,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -748,25 +515,22 @@
           "description": "GAD-L",
           "value": "",
           "position": "left",
-          "placeholder": "Nº. Guia"
+          "placeholder": "Nº. Guia",
+          "size": "150px"
         },
         {
           "id": 2,
           "description": "Valor Guia",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 3,
           "description": "Fls. Manif.",
           "value": "02-04",
-          "position": "right"
-        },
-        {
-          "id": 4,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -783,123 +547,136 @@
           "id": 1,
           "description": "Fls. Leilão",
           "value": "02-04 e 100",
-          "position": "right"
+          "position": "right",
+          "size": "30px"
         },
         {
           "id": 2,
           "description": "Fls. COD",
           "value": "110-111",
-          "position": "right"
+          "position": "right",
+          "size": "30px"
         },
         {
           "id": 3,
           "description": "GAD-L",
           "value": "",
           "position": "left",
-          "placeholder": "Nº. Guia"
+          "placeholder": "Nº. Guia",
+          "size": "150px"
         },
         {
           "id": 4,
           "description": "Valor Guia",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 5,
           "description": "GAD-E Transf.",
           "value": "",
           "position": "left",
-          "placeholder": "Nº. Guia"
+          "placeholder": "Nº. Guia",
+          "size": "150px"
         },
         {
           "id": 6,
           "description": "Valor Guia",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 7,
           "description": "Fl. GAD-E",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "30px"
         },
         {
           "id": 8,
           "description": "Ano IPVA",
           "value": "2021",
-          "position": "right"
+          "position": "right",
+          "size": "30px"
         },
         {
           "id": 9,
           "description": "Valor IPVA",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 10,
           "description": "Valor Emolumentos",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 11,
           "description": "Fl. Emolum.",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "30px"
         },
         {
           "id": 12,
           "description": "Valor Guincho",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 13,
           "description": "Fl. Guincho",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "30px"
         },
         {
           "id": 14,
           "description": "Valor Peças",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 15,
           "description": "Fl. Fatura",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "20px"
         },
         {
           "id": 16,
           "description": "Valor Serviços",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 17,
           "description": "Fl. Fatura",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "30px"
         },
         {
           "id": 18,
           "description": "Valor Extra",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 19,
           "description": "Fl. Recibo",
           "value": "",
-          "position": "right"
-        },
-        {
-          "id": 20,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -907,7 +684,7 @@
       "id": "41",
       "index": "41",
       "name": " - DESFAZIMENTO DE LEILÃO SEM VALIDAÇÃO VALORES",
-      "text": "À Coordenadoria de Finanças,\n\nPara os procedimentos necessários para devolução da GAD-L n.º $value0 no valor de R$ $value1, referente a desfazimento de leilão, bem como, demais valores listados nos anexos $value2, no total de R$ $value3, conforme manifestação da Coordenadoria de Leilão as fls. $value4.\n\nDeclaramos que está DFC se abstêm de qualquer conferência dos valores a serem devolvidos dos anexos $value2, conforme definido em reunião com a Divisão de Depósito, valendo a conferência, avaliação e ateste para devolução dos referidos valores, conforme manifestação das fls. $value4.\n\nAtt,",
+      "text": "À Coordenadoria de Finanças,\n\nPara os procedimentos necessários para devolução da GAD-L n.º $value0 no valor de R$ $value1, referente a desfazimento de leilão, bem como, demais valores listados, no total de R$ $value3, conforme manifestação da Coordenadoria de Leilão as fls. $value4.\n\nDeclaramos que está DFC se abstêm de qualquer conferência dos valores a serem devolvidos dos anexos $value2, conforme definido em reunião com a Divisão de Depósito, valendo a conferência, avaliação e ateste para devolução dos referidos valores, conforme manifestação das fls. $value4.\n\nAtt,",
       "numberFields": 6,
       "menu": "FINANCEIRO",
       "submenu": "DEPÓSITO/LEILÃO",
@@ -917,37 +694,36 @@
           "description": "GAD-L",
           "value": "",
           "position": "left",
-          "placeholder": "Nº. Guia"
+          "placeholder": "Nº. Guia",
+          "size": "150px"
         },
         {
           "id": 2,
           "description": "Valor Guia",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 3,
           "description": "Fls. Anexos NFs",
           "value": "00-00",
-          "position": "right"
+          "position": "right",
+          "size": "30px"
         },
         {
           "id": 4,
           "description": "Valor NFs Extras",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "100px"
         },
         {
           "id": 5,
           "description": "Fls. Manif.",
           "value": "02-04",
-          "position": "right"
-        },
-        {
-          "id": 6,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -964,19 +740,15 @@
           "id": 1,
           "description": "Placa",
           "value": "",
-          "position": "left"
+          "position": "left",
+          "size": "50px"
         },
         {
           "id": 2,
           "description": "Fl. Juiz",
           "value": "02",
-          "position": "right"
-        },
-        {
-          "id": 3,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -993,19 +765,15 @@
           "id": 1,
           "description": "Termo",
           "value": "520/2020",
-          "position": "left"
+          "position": "left",
+          "size": "100px"
         },
         {
           "id": 2,
           "description": "Fl. Liquidação",
           "value": "",
-          "position": "right"
-        },
-        {
-          "id": 3,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -1022,13 +790,8 @@
           "id": 1,
           "description": "Placa",
           "value": "",
-          "position": "left"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "left",
+          "size": "50px"
         }
       ]
     },
@@ -1047,12 +810,6 @@
           "value": "",
           "position": "left",
           "size": "500px"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
         }
       ]
     },
@@ -1064,31 +821,17 @@
       "numberFields": 1,
       "menu": "DAF",
       "submenu": "DESPACHOS GERAIS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "43",
       "index": "43",
       "name": " - EGR ARQUIVO PROCESSO COBRANÇA",
-      "text": "À Divisão Financeira e Contábil,\n\nRegistramos que a prestação de contas do presente expediente encontra-se registrada no PROA 24/1244-0000023-1.\n\nPara arquivo.\n\nAtt,",
+      "text": "À Divisão Financeira e Contábil,\n\nRegistramos que a prestação de contas do presente expediente encontra-se registrada no PROA 25/1244-0000016-4.\n\nPara arquivo.\n\nAtt,",
       "numberFields": 1,
       "menu": "DFC",
       "submenu": "DESPACHOS GERAIS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "44",
@@ -1098,14 +841,7 @@
       "numberFields": 1,
       "menu": "DFC",
       "submenu": "DESPACHOS GERAIS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "34",
@@ -1120,37 +856,29 @@
           "id": 1,
           "description": "Fls. Anexos",
           "value": "",
-          "position": "right"
+          "position": "right",
+          "size": "30px"
         },
         {
           "id": 2,
           "description": "Processo",
           "value": "",
-          "position": "left"
+          "position": "left",
+          "size": "150px"
         },
         {
           "id": 3,
           "description": "Data Incrição",
           "value": "",
-          "position": "center"
+          "position": "center",
+          "size": "100px"
         },
         {
           "id": 4,
           "description": "Data CDA",
           "value": "",
-          "position": "center"
-        },
-        {
-          "id": 5,
-          "description": "Data Extrato",
-          "value": "date",
-          "position": "center"
-        },
-        {
-          "id": 6,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "center",
+          "size": "100px"
         }
       ]
     },
@@ -1167,13 +895,8 @@
           "id": 1,
           "description": "Fl. Despacho",
           "value": "",
-          "position": "right"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -1190,13 +913,8 @@
           "id": 1,
           "description": "Fl. Despacho",
           "value": "",
-          "position": "right"
-        },
-        {
-          "id": 2,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
+          "position": "right",
+          "size": "30px"
         }
       ]
     },
@@ -1208,14 +926,7 @@
       "numberFields": 1,
       "menu": "JURÍDICO",
       "submenu": "OUTROS DESPACHOS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "51",
@@ -1225,14 +936,7 @@
       "numberFields": 1,
       "menu": "JURÍDICO",
       "submenu": "OUTROS DESPACHOS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "38",
@@ -1247,7 +951,8 @@
           "id": 1,
           "description": "Placa",
           "value": "",
-          "position": "left"
+          "position": "left",
+          "size": "50px"
         },
         {
           "id": 2,
@@ -1256,12 +961,6 @@
           "position": "left",
           "placeholder": "Ex.: 13 (fl. 30) e 12 (fl. 34)",
           "size": "300px"
-        },
-        {
-          "id": 3,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
         }
       ]
     },
@@ -1273,14 +972,7 @@
       "numberFields": 1,
       "menu": "ORGAOS",
       "submenu": "BRIGADA MILITAR",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "49",
@@ -1290,14 +982,7 @@
       "numberFields": 1,
       "menu": "DINFRA",
       "submenu": "DESPACHOS GERAIS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "50",
@@ -1307,14 +992,7 @@
       "numberFields": 1,
       "menu": "DINFRA",
       "submenu": "DESPACHOS GERAIS",
-      "fields": [
-        {
-          "id": 1,
-          "description": "Data",
-          "value": "date",
-          "position": "center"
-        }
-      ]
+      "fields": []
     },
     {
       "id": "f8e0",
