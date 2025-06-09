@@ -1,0 +1,1341 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "index": "01",
+      "name": " - CRVA - ERRO DOC",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "numberFields": 3,
+      "menu": "CONTABILIDADE",
+      "submenu": "RETENÇÕES",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Valor",
+          "value": "value_crva_doc",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "CRVA",
+          "value": "CRVA0",
+          "position": "left"
+        },
+        {
+          "id": 3,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "index": "02",
+      "name": " - CRVA - ERRO 233",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "numberFields": 3,
+      "menu": "CONTABILIDADE",
+      "submenu": "RETENÇÕES",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Valor",
+          "value": "value_crva_233",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "CRVA",
+          "value": "CRVA0",
+          "position": "left"
+        },
+        {
+          "id": 3,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "index": "03",
+      "name": " - CFC - ERRO GERAL",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "numberFields": 3,
+      "menu": "CONTABILIDADE",
+      "submenu": "RETENÇÕES",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Valor",
+          "value": "value_cfc_cnh",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "CFC",
+          "value": "CFC00",
+          "position": "left"
+        },
+        {
+          "id": 3,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "index": "04",
+      "name": " - CFC/MÉDICO - ERRO",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, e do valor de $value2, do Médico Credenciado $value3, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "numberFields": 5,
+      "menu": "CONTABILIDADE",
+      "submenu": "RETENÇÕES",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Valor CFC",
+          "value": "value_cfc_mp_cnh",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "CFC",
+          "value": "CFC00",
+          "position": "left"
+        },
+        {
+          "id": 3,
+          "description": "Valor MÉDICO",
+          "value": "value_cfc_mp_cnh",
+          "position": "right"
+        },
+        {
+          "id": 4,
+          "description": "MÉDICO",
+          "value": "",
+          "position": "left",
+          "placeholder": "Nome e RG",
+          "size": "500px"
+        },
+        {
+          "id": 5,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "index": "05",
+      "name": " - CFC/PSICÓLOGO - ERRO",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do credenciado $value1, e do valor de $value2, do Psicólogo Credenciado $value3, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "numberFields": 5,
+      "menu": "CONTABILIDADE",
+      "submenu": "RETENÇÕES",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Valor CFC",
+          "value": "value_cfc_mp_cnh",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "CFC",
+          "value": "CFC00",
+          "position": "left"
+        },
+        {
+          "id": 3,
+          "description": "Valor PSICÓLOGO",
+          "value": "value_cfc_mp_cnh",
+          "position": "right"
+        },
+        {
+          "id": 4,
+          "description": "PSICÓLOGO",
+          "value": "",
+          "position": "left",
+          "placeholder": "Nome e RG",
+          "size": "500px"
+        },
+        {
+          "id": 5,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "index": "06",
+      "name": " - MÉDICO - ERRO",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do Médico credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "numberFields": 3,
+      "menu": "CONTABILIDADE",
+      "submenu": "RETENÇÕES",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Valor MÉDICO",
+          "value": "value_cfc_cnh",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "MÉDICO",
+          "value": "",
+          "position": "left",
+          "placeholder": "Nome e RG",
+          "size": "500px"
+        },
+        {
+          "id": 3,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "index": "07",
+      "name": " - PSICÓLOGO - ERRO",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara ressarcimento / retenção do valor de $value0 do Psicólogo credenciado $value1, considerando erro conforme informação do presente expediente.\n\nAtt,",
+      "numberFields": 3,
+      "menu": "CONTABILIDADE",
+      "submenu": "RETENÇÕES",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Valor PSICÓLOGO",
+          "value": "value_cfc_cnh",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "PSICÓLOGO",
+          "value": "",
+          "position": "left",
+          "placeholder": "Nome e RG",
+          "size": "500px"
+        },
+        {
+          "id": 3,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "index": "08",
+      "name": " - MULTA CREDENCIADO",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara retenção da multa aplicada ao Credenciado $value0 pela Portaria DETRAN/RS n.º $value1 (fl. $value2), conforme encaminhamento da Corregedoria-Geral.\n\nApós, encaminhar a Coordenadoria de Credenciamento para registro. \n\nAtt,",
+      "numberFields": 4,
+      "menu": "CONTABILIDADE",
+      "submenu": "RETENÇÕES",
+      "fields": [
+        {
+          "id": 1,
+          "description": "CREDENCIADO",
+          "position": "left"
+        },
+        {
+          "id": 2,
+          "description": "PORTARIA",
+          "value": "",
+          "position": "right",
+          "placeholder": "Nº Portaria"
+        },
+        {
+          "id": 3,
+          "description": "FOLHA",
+          "position": "right"
+        },
+        {
+          "id": 4,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "index": "09",
+      "name": " - ALVARÁ JUDICIAL",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara conferência e registros contábeis, referente alvará judicial da fl. $value0.\n\nAtt,",
+      "numberFields": 2,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. Alvará",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "index": "10",
+      "name": " - LEILÃO",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara conferência, procedimentos contábeis e pagamentos necessários a conclusão do processo financeiro do presente Leilão, conforme encaminhamento da Coordenadoria de Leilões.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "index": "11",
+      "name": " - DESMANCHES - CONTÁBIL DEPÓSITO",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara confirmação de pagamento e registros contábeis, conforme encaminhamento da Coordenadoria de Fiscalização à fl. $value0.\n\nAtt,",
+      "numberFields": 2,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. Manif.",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "index": "12",
+      "name": " - DESMANCHES - CONTÁBIL CONVERSÃO",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara os registros contábeis decorrentes da manifestação da Coordenadoria de Fiscalização à fl. $value0.\n\nAtt,",
+      "numberFields": 2,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. Manif.",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "index": "13",
+      "name": " - DMI",
+      "text": "À Coordenadoria de Contabilidade,\n\nPara conferência, registros contábeis e remuneração dos CRDs, conforme encaminhamento da Divisão de Depósitos/CDMI.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "index": "14",
+      "name": " - AUTORIZAÇÃO PGTO FATURA",
+      "text": "À Coordenadoria de Contabilidade,\n\nAutorizado proceder com o pagamento da Fatura\n\nAtt,",
+      "numberFields": 1,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "index": "15",
+      "name": " - APOSTILA PROCERGS",
+      "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nRegistramos que validamos os cálculos do reajuste da folha $value0.\n\nEncaminhamos para complemento da SRO e Empenho do reajuste, conforme encaminhamento da DGC/Coordenadoria de Contratos às folhas $value1.\n\nAtt,",
+      "numberFields": 3,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. Cálculo",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Fl. Manif.",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 3,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "index": "16",
+      "name": " - SRO e EMPENHO - PRORROGAÇÃO GERAL",
+      "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nConforme solicitado no encaminhamento as folhas $value0, encaminhamos o presente para SRO e Empenho.\n\nConsiderando que o presente Contrato tratar-se de um contrato com cota mensal disponibilizada pela SEFAZ para Empenho, proceder com a inclusão da SRO e Empenho da última competência para fins mação dos dados necessários referente a codificação orçamentária.\n\nPor fim, confirmamos que há previsão de recurso orçamentário no Orçamento do exercício vigente, para o atendimento da despesa para o período solicitado, bem como, será previsto a despesa no Orçamento do próximo exercício. \n\nAtt,",
+      "numberFields": 2,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. Manif.",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "index": "17",
+      "name": " - ANALISE REAJUSTE TERCEIRIZADA",
+      "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nPara análise da Repactuação do Contrato da Contratada $value0, conforme encaminhamento da DGC/Coordenadoria de Contratos, sob a ótica contábil. \n\nApós, encaminhar a Coordenadoria de Finanças, para análise sob a ótica financeira.\n\nAtt,",
+      "numberFields": 2,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Contratada",
+          "value": "",
+          "position": "left",
+          "size": "500px"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "index": "39",
+      "name": " - PRESTAÇÃO CONTAS DIÁRIAS",
+      "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nPara conferência e registros necessários da Prestação de Contas de Diárias apresentada.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "index": "42",
+      "name": " - REMUNERAÇÃO MÉDICOS COMISSÃO ESPECIAL",
+      "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nPara proceder com a Remuneração do Credenciado, conforme encaminhamento da Divisão de Habilitação.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "index": "46",
+      "name": " - CONFERÊNCIA PGTO MULTA DESMANCHE",
+      "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nEncaminhamos o presente expediente para conferência se houve ou não o pagamento da multa aplicada pela Coordenadoria de Fiscalização, conforme \n\nda folha $value0.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "CONTABILIDADE",
+      "submenu": "OUTROS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. ",
+          "value": "02",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "index": "18",
+      "name": " - DEVOLUÇÃO DEFERIDA",
+      "text": "À Coordenadoria de Finanças,\n\nPara proceder com a restituição da multa, conforme manifestação da Assessoria Jurídica.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "RETORNO ASSESSORIA JURÍDICA",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "index": "19",
+      "name": " - DEVOLUÇÃO INDEFERIDA",
+      "text": "À Coordenadoria de Finanças,\n\nPara conhecimento e resposta ao Solicitante do indeferimento da restituição, conforme manifestação da Assessoria Jurídica.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "RETORNO ASSESSORIA JURÍDICA",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "index": "20",
+      "name": " - INFORMAÇÃO SOBRE DEVOLUÇÃO",
+      "text": "À Coordenadoria de Finanças,\n\nPara verificação e informação a Assessoria Jurídica do solicitado.\n\nProceder com o encaminhamento diretamente aquela Assessoria, considerando o prazo de resposta.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "RETORNO ASSESSORIA JURÍDICA",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "index": "21",
+      "name": " - DEVOLUÇÃO DEFERIDA",
+      "text": "À Coordenadoria de Finanças,\n\nPara proceder com a devolução do valor, conforme manifestação da DRV.\n\nApós retorne para definição sobre o erro da associação das Taxas, caso necessário.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "RETORNO DRV",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "index": "22",
+      "name": " - DEVOLUÇÃO DEFERIDA COMPLEXA",
+      "text": "À Coordenadoria de Finanças,\n\nApesar da manifestação da DRV à folha 10.\n\nEm análise aos detalhes do pagamento no sistema GID-Veículos (fl. 12), as taxas da Guia 77453001 foram vinculadas ao CNPJ 32.225.388/0003-87.\n\nO CNPJ 32.225.388/0003-87 é da Revenda que efetuou a venda a Solicitante da Devolução da Taxa e comprador/proprietário do veículo placa JAT5E04, conforme cadeia sucessória (fl. 13).\n\nConsiderando que houve também o pagamento da Guia 77369352, feito pelo comprador/proprietário do veículo, que foi utilizado no processo de Primeiro Emplacamento do veículo, CNPJ 87.537.338/0001-65.\n\nConsiderando que no sistema de veículos a Guia 77453001 está atrelada a Placa JAT5E04 (fl. 14).\n\nDessa forma, podemos concluir que a emissão da Guia 77453001 ocorreu de forma engana para o CNPJ 32.225.388/0003-87, pois deveria ter sido emitido para o CNPJ 87.537.338/0001-65, que foi corrigido e utilizado no processo de primeiro emplacamento com a Guia 77369352.\n\nE considerando que o solicitante demonstrou que o pagamento da Guia 77453001 foi feito por ele, conforme comprovante de pagamento à folha 04.\n\nFica autorizado proceder a devolução da Guia 77453001 para o CNPJ  87.537.338/0001-65.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "RETORNO DRV",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "index": "23",
+      "name": " - DEVOLUÇÃO INDEFERIDA",
+      "text": "À Coordenadoria de Finanças,\n\nPara conhecimento e resposta ao Solicitante do indeferimento da restituição, conforme manifestação da DRV.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "RETORNO DRV",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "index": "24",
+      "name": " - DEVOLUÇÃO DEFERIDA",
+      "text": "À Coordenadoria de Finanças,\n\nProceder com a devolução conforme manifestação da Divisão de Habilitação.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "RETORNO HABILITAÇÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "index": "25",
+      "name": " - DEVOLUÇÃO INDEFERIDA",
+      "text": "À Coordenadoria de Finanças,\n\nPara conhecimento e resposta ao Solicitante do indeferimento da restituição, conforme manifestação da Divisão de Habilitação.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "RETORNO HABILITAÇÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "index": "26",
+      "name": " - DEVOLUÇÃO DEFERIDA",
+      "text": "À Coordenadoria de Finanças,\n\nProceder com a devolução conforme manifestação da Divisão de Depósito.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "DEPÓSITO/LEILÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "index": "27",
+      "name": " - DEVOLUÇÃO INDEFERIDA",
+      "text": "À Coordenadoria de Finanças,\n\nPara conhecimento e resposta ao Solicitante do indeferimento da restituição, conforme manifestação da Divisão de Depósito.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "DEPÓSITO/LEILÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "index": "28",
+      "name": " - DEVOLUÇÃO INDEFERIDA - LEI 15.172/2018",
+      "text": "À Coordenadoria de Finanças,\n\nPara conhecimento e resposta ao Solicitante do indeferimento da restituição, conforme manifestação da Divisão de Depósito.\n\nOrientar o cidadão que para ter direito a restituição dos valores de remoção é preciso que: 'Após o trâmite do inquérito na esfera policial ou judicial, e com a devida comprovação de que foi vítima do acidente com lesão, volte a solicitar o ressarcimento nos termos previstos na Lei 15.172/2018 e Portaria DETRAN n.º 441/2018, em especial o procedimento do Art. 11.'\n\nAtt,",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "DEPÓSITO/LEILÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "index": "29",
+      "name": " - DESFAZIMENTO DE LEILÃO SIMPLES",
+      "text": "À Coordenadoria de Finanças,\n\nPara os procedimentos necessários para devolução da GAD-L n.º $value0 no valor de R$ $value1, referente a desfazimento de leilão, conforme manifestação da Coordenadoria de Leilão as fls. $value2.\n\nAtt,",
+      "numberFields": 4,
+      "menu": "FINANCEIRO",
+      "submenu": "DEPÓSITO/LEILÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "GAD-L",
+          "value": "",
+          "position": "left",
+          "placeholder": "Nº. Guia"
+        },
+        {
+          "id": 2,
+          "description": "Valor Guia",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 3,
+          "description": "Fls. Manif.",
+          "value": "02-04",
+          "position": "right"
+        },
+        {
+          "id": 4,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "index": "30",
+      "name": " - DESFAZIMENTO DE LEILÃO PARCIAL",
+      "text": "À Coordenadoria de Finanças,\n\nPara os procedimentos necessários para devolução parcial da GAD-L n.º $value0 no valor parcial de R$ $value1, referente a desfazimento de leilão, conforme manifestação da Coordenadoria de Leilão as fls. $value2.\n\nAtt,",
+      "numberFields": 4,
+      "menu": "FINANCEIRO",
+      "submenu": "DEPÓSITO/LEILÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "GAD-L",
+          "value": "",
+          "position": "left",
+          "placeholder": "Nº. Guia"
+        },
+        {
+          "id": 2,
+          "description": "Valor Guia",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 3,
+          "description": "Fls. Manif.",
+          "value": "02-04",
+          "position": "right"
+        },
+        {
+          "id": 4,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "index": "31",
+      "name": " - DESFAZIMENTO DE LEILÃO COMPLETO",
+      "text": "À Coordenadoria de Finanças,\n\nConsiderando manifestação da Coordenadoria de Leilão as fls. $value0, e Coordenadoria de Operações em Depósito às folhas $value1.\n\nPara os procedimentos necessários para devolução da GAD-L n.º $value2 no valor de R$ $value3, referente a desfazimento de leilão, bem como, os débitos de:\n\n- GAD-E de Transferência n.º $value4, no valor de R$ $.value5 (fl. value6);\n\n- IPVA $value7, no valor de R$ $value8;\n\n- Emolumentos do CRVA, no valor de R$ $value9 (fl. $value10);\n\n- Recibo de guincho, no valor de R$ $value11 (fl. $value12);\n\n- Despesas de peças e mão de obra no valor de R$ $value13, da Fatura à fl. $value14;\n\n- Despesas de serviços no valor de R$ $value15, da Fatura à fl. $value16;\n\n- Despesas extras, no valor de R$ $value17, da Fatura à fl. $value18;\n\nAtt,.",
+      "numberFields": 1,
+      "menu": "FINANCEIRO",
+      "submenu": "DEPÓSITO/LEILÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fls. Leilão",
+          "value": "02-04 e 100",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Fls. COD",
+          "value": "110-111",
+          "position": "right"
+        },
+        {
+          "id": 3,
+          "description": "GAD-L",
+          "value": "",
+          "position": "left",
+          "placeholder": "Nº. Guia"
+        },
+        {
+          "id": 4,
+          "description": "Valor Guia",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 5,
+          "description": "GAD-E Transf.",
+          "value": "",
+          "position": "left",
+          "placeholder": "Nº. Guia"
+        },
+        {
+          "id": 6,
+          "description": "Valor Guia",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 7,
+          "description": "Fl. GAD-E",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 8,
+          "description": "Ano IPVA",
+          "value": "2021",
+          "position": "right"
+        },
+        {
+          "id": 9,
+          "description": "Valor IPVA",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 10,
+          "description": "Valor Emolumentos",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 11,
+          "description": "Fl. Emolum.",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 12,
+          "description": "Valor Guincho",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 13,
+          "description": "Fl. Guincho",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 14,
+          "description": "Valor Peças",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 15,
+          "description": "Fl. Fatura",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 16,
+          "description": "Valor Serviços",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 17,
+          "description": "Fl. Fatura",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 18,
+          "description": "Valor Extra",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 19,
+          "description": "Fl. Recibo",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 20,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "index": "41",
+      "name": " - DESFAZIMENTO DE LEILÃO SEM VALIDAÇÃO VALORES",
+      "text": "À Coordenadoria de Finanças,\n\nPara os procedimentos necessários para devolução da GAD-L n.º $value0 no valor de R$ $value1, referente a desfazimento de leilão, bem como, demais valores listados nos anexos $value2, no total de R$ $value3, conforme manifestação da Coordenadoria de Leilão as fls. $value4.\n\nDeclaramos que está DFC se abstêm de qualquer conferência dos valores a serem devolvidos dos anexos $value2, conforme definido em reunião com a Divisão de Depósito, valendo a conferência, avaliação e ateste para devolução dos referidos valores, conforme manifestação das fls. $value4.\n\nAtt,",
+      "numberFields": 6,
+      "menu": "FINANCEIRO",
+      "submenu": "DEPÓSITO/LEILÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "GAD-L",
+          "value": "",
+          "position": "left",
+          "placeholder": "Nº. Guia"
+        },
+        {
+          "id": 2,
+          "description": "Valor Guia",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 3,
+          "description": "Fls. Anexos NFs",
+          "value": "00-00",
+          "position": "right"
+        },
+        {
+          "id": 4,
+          "description": "Valor NFs Extras",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 5,
+          "description": "Fls. Manif.",
+          "value": "02-04",
+          "position": "right"
+        },
+        {
+          "id": 6,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "index": "45",
+      "name": " - DEPÓSITO JUDICIAL SALDO REMANESCENTE DE LEILÃO",
+      "text": "À Coordenadoria de Finanças,\n\nPrezados, \n\nPara proceder com o depósito judicial do saldo remanescente de leilão do veículo placa $value0, conforme determinação judicial da folha $value1.\n\nAtt,",
+      "numberFields": 6,
+      "menu": "FINANCEIRO",
+      "submenu": "DEPÓSITO/LEILÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Placa",
+          "value": "",
+          "position": "left"
+        },
+        {
+          "id": 2,
+          "description": "Fl. Juiz",
+          "value": "02",
+          "position": "right"
+        },
+        {
+          "id": 3,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "index": "40",
+      "name": " - PAGAMENTO FATURA CONVÊNIO BM",
+      "text": "À Coordenadoria de Finanças,\n\nConsiderando que o presente expediente refere-se a contratação de serviços pela Brigada Militar conforme Termo de Cooperação $value0.\n\nPara proceder com o pagamento da liquidação da folha $value1.\n\nAtt,\n\nEtilômetros: 520/2020\n\nSmartphone: 001/2020",
+      "numberFields": 2,
+      "menu": "FINANCEIRO",
+      "submenu": "SSP - PAGAMENTOS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Termo",
+          "value": "520/2020",
+          "position": "left"
+        },
+        {
+          "id": 2,
+          "description": "Fl. Liquidação",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 3,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "index": "32",
+      "name": " - ISENÇÃO LEI 15.606/2021",
+      "text": "À Coordenadoria de Finanças,\n\nConsiderando que o veículo placa $value0 está isento da Taxa de Alteração de Registro de Veículos, conforme isenção criada pela Lei 15.606/2021 na alínea 'a' do inciso XXXV do Art. 3º da Lei 8.109/1985.\n\nProceder com a devolução da Taxa.\n\nAtt,",
+      "numberFields": 4,
+      "menu": "FINANCEIRO",
+      "submenu": "OUTROS DESPACHOS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Placa",
+          "value": "",
+          "position": "left"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "index": "47",
+      "name": " - ANALISE REAJUSTE TERCEIRIZADA",
+      "text": "À Coordenadoria de Finanças,\n\nPrezados,\n\nPara análise da Repactuação do Contrato da Contratada $value0, conforme encaminhamento da DGC/Coordenadoria de Contratos, sob a ótica financeira. \n\nApós, encaminhar a Coordenadoria de Contabilidade, para análise sob a ótica contábil.\n\nAtt,",
+      "numberFields": 2,
+      "menu": "FINANCEIRO",
+      "submenu": "OUTROS DESPACHOS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Contratada",
+          "value": "",
+          "position": "left",
+          "size": "500px"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "index": "33",
+      "name": " - RENOVAÇÃO CONTRATOS BANCOS",
+      "text": "À Diretoria Administrativa e Financeira,\n\nPrezado Diretor,\n\nPara assinatura da REQUISIÇÃO DE PRORROGAÇÃO CONTRATUAL do Contrato com o BANRISUL, acostada na área Documentos de Trabalho do presente PROA.\n\nApós, encaminhar a Direção-Geral para autorização dos trâmites de renovação do Contrato.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "DAF",
+      "submenu": "DESPACHOS GERAIS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "index": "43",
+      "name": " - EGR ARQUIVO PROCESSO COBRANÇA",
+      "text": "À Divisão Financeira e Contábil,\n\nRegistramos que a prestação de contas do presente expediente encontra-se registrada no PROA 24/1244-0000023-1.\n\nPara arquivo.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "DFC",
+      "submenu": "DESPACHOS GERAIS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "index": "44",
+      "name": " - MULTA DESMANCHE - ARQUIVO PROCESSO ",
+      "text": "À Divisão Financeira e Contábil,\n\nConsiderando o não pagamento da multa aplicada.\n\nConsiderando realização do registro no CADIN do CPF/CNPJ do devedor.\n\nConsiderando procedimento aprovado na Folha de Informação n.º DFC0010/2023.\n\nConsiderando que o valor da cobrança do presente expediente não chega ao valor mínimo para inscrição em Dívida Ativa.\n\nArquive-se o presente.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "DFC",
+      "submenu": "DESPACHOS GERAIS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "index": "34",
+      "name": " - POSIÇÃO DÍVIDA - SOLICITADO CANCELAMENTO CARTORIO",
+      "text": "À Assessoria Jurídica,\n\nPrezados,\n\nRetornamos o expediente informando que: 1- Anexamos ás folhas $value0:\n\n- Termo de Inscrção em Dívida Ativa do Processo #value1, realizado Att,\n\n- Última Certidão de Dívida Ativa - CDA emitida Att,\n\n- Extrato do Processo com posição Att,\n\n2- Procedemos com o Cancelamento do protesto no Cartório. Como trata-se de interação sistêmica com a Central de Cartório de Protestos, devemos receber no próximo dia útil a confirmação de cancelamento do Protesto.\n\n2- Procedemos com o Cancelamento do protesto no Cartório, conforme registro no Extrato do Processo.\n\n3- O Processo de cobrança não foi cancelado, pois não houve essa determinação, continuando assim em cobrança. Cabe esclarecer que a cobrança e inscrição em Dívida Ativa ocorreu dentro do prazo de 5 anos, bem como, as multas encontram-se em cobrança no sistema SIT, não havendo solicitação de cancelamento das multas por Prescrição. Ou seja, o proprietário do veículo nunca se manifestou solicitando a prescrição das multas. Se as multas tivessem sido suspensas no sistema SIT, automaticamente o sistema de cobrança do GFI teria encerrado o referido Processo.\n\n4- O Processo não foi encaminhado para cobrança judicial.\n\n5- Caso seja necessário cancelar o processo de cobrança solicitamos retornar o expediente com tal determinação, contudo entendemos que se a demanda é por prescrição das multas, ou seja, cabe a solicitação a DINFRA para que suspenda as infrações, e dessa forma, o referido processo será automaticamente encerrado no sistema GFI.\n\nAtt,",
+      "numberFields": 6,
+      "menu": "JURÍDICO",
+      "submenu": "DÍVIDA ATIVA",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fls. Anexos",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Processo",
+          "value": "",
+          "position": "left"
+        },
+        {
+          "id": 3,
+          "description": "Data Incrição",
+          "value": "",
+          "position": "center"
+        },
+        {
+          "id": 4,
+          "description": "Data CDA",
+          "value": "",
+          "position": "center"
+        },
+        {
+          "id": 5,
+          "description": "Data Extrato",
+          "value": "date",
+          "position": "center"
+        },
+        {
+          "id": 6,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "index": "35",
+      "name": " - COBRANÇA TAXAS",
+      "text": "À Assessoria Jurídica,\n\nPrezados,\n\nEm relação a solicitação da folha $value0 de encaminhamento para a DFC dar curso na Cobrança Administrativa dos valores impagos, informamos que o DETRAN/RS, assim como a DFC, não tem procedimento de cobrança estabelecido nem competência para realizar a cobrança em Dívida Ativa de débitos tributários no Estado do RS, aos quais as Taxas do DETRAN/RS se enquadram.\n\nConforme Art. 3º do Decreto n.º 53.728/2017, cabe a Receita Estadual realizar a cobrança de tais débitos:\n\nArt. 3º A Receita Estadual será a responsável por executar o processo de cobrança administrativa, dos débitos tributários referidos no inciso I do art. 2º deste Decreto.\n\n§ 1º Os processos de cobrança administrativa de natureza tributária decorrentes de taxas inadimplidas serão encaminhados pelo DETRAN/RS, de forma eletrônica, para a Receita Estadual, com vista ao lançamento do crédito tributário, conforme prevê o art. 10 e o art.18, I, alínea 'b', da Lei Complementar nº 13.452, de 26 de abril de 2010, ficando esta responsável pela execução da cobrança administrativa.\n\n§ 2º Havendo a quitação de débitos tributários decorrentes de taxas de trânsito, a Receita Estadual deverá informar ao DETRAN/RS para os devidos registros e ainda repassar os valores correspondentes ao principal.\n\nAtualmente não existe procedimento estabelecido com a SEFAZ para a cobrança de tais débitos,assim, s.m.j. cabe apenas o envio do presente expediente a Receita Estadual, via Direção-Geral, solicitado a cobrança de tais débitos.\n\nANALISAR:\n\nContudo, anteriormente ao envio do mesmo a SEFAZ, cabe análise se as Taxas a serem cobradas já não estão prescritas para fins de registro em Dívida Ativa, pois conforme data que o veículo entrou em depósito e considerando que o entendimento inicial é de que seja cobrado os seis primeiros meses de estada, conforme definido no CTB, tais Taxas já estariam prescritas para a sua cobrança pela Receita Estadual.\n\nAtt,",
+      "numberFields": 2,
+      "menu": "JURÍDICO",
+      "submenu": "TAXAS CRD",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. Despacho",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "index": "36",
+      "name": " - ALVARÁ e COBRANÇA TAXAS",
+      "text": "À Assessoria Jurídica,\n\nPrezados,\n\nRetornamos o presente expediente informando que finalizamos a apropriação e registros contábeis do alvará encaminhado.\n\nEm relação a solicitação da folha $value0 de encaminhamento para a DFC dar curso na Cobrança Administrativa dos valores impagos, informamos que o DETRAN/RS, assim como a DFC, não tem procedimento de cobrança estabelecido nem competência para realizar a cobrança em Dívida Ativa de débitos tributários no Estado do RS, aos quais as Taxas do DETRAN/RS se enquadram.\n\nConforme Art. 3º do Decreto n.º 53.728/2017, cabe a Receita Estadual realizar a cobrança de tais débitos:\n\nArt. 3º A Receita Estadual será a responsável por executar o processo de cobrança administrativa, dos débitos tributários referidos no inciso I do art. 2º deste Decreto.\n\n§ 1º Os processos de cobrança administrativa de natureza tributária decorrentes de taxas inadimplidas serão encaminhados pelo DETRAN/RS, de forma eletrônica, para a Receita Estadual, com vista ao lançamento do crédito tributário, conforme prevê o art. 10 e o art.18, I, alínea 'b', da Lei Complementar nº 13.452, de 26 de abril de 2010, ficando esta responsável pela execução da cobrança administrativa.\n\n§ 2º Havendo a quitação de débitos tributários decorrentes de taxas de trânsito, a Receita Estadual deverá informar ao DETRAN/RS para os devidos registros e ainda repassar os valores correspondentes ao principal.\n\nAtualmente não existe procedimento estabelecido com a SEFAZ para a cobrança de tais débitos,assim, s.m.j. cabe apenas o envio do presente expediente a Receita Estadual, via Direção-Geral, solicitado a cobrança de tais débitos.\n\nANALISAR:\n\nContudo, anteriormente ao envio do mesmo a SEFAZ, cabe análise se as Taxas a serem cobradas já não estão prescritas para fins de registro em Dívida Ativa, pois conforme data que o veículo entrou em depósito e considerando que o entendimento inicial é de que seja cobrado os seis primeiros meses de estada, conforme definido no CTB, tais Taxas já estariam prescritas para a sua cobrança pela Receita Estadual.\n\nAtt,",
+      "numberFields": 2,
+      "menu": "JURÍDICO",
+      "submenu": "TAXAS CRD",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. Despacho",
+          "value": "",
+          "position": "right"
+        },
+        {
+          "id": 2,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "index": "37",
+      "name": " - RPV",
+      "text": "À Assessoria Jurídica,\n\nPrezados, \n\nConforme já informado em outros expedientes, no caso de RPVs expedidas e pagas desde 01/01/2020, o procedimento de pagamento das RPVs não são mais de \n\ndo DETRAN/RS, mas de Órgão específico criado na estrutura do Estado para tal, e de gerenciamento da SEFAZ\n\nCabe destacar que o DETRAN/RS não tem recurso financeiro no seu Orçamento destinado ao pagamento de RPVs.\n\nEsclarecemos que não temos como prestar maiores informações sobre pagamento de RPVs. Até temos uma consulta no sistema FPE que demonstra os pagamentos, mas não temos maiores informações sobre esse pagamento ou o procedimento desse pagamento.\n\nAssim, sugerimos que casos como o presente, bem como, outros que envolvam pagamento de RVPs, sejam direcionados diretamente ao setor competente da SEFAZ/RS. Dessa forma, evitasse o trâmite de processos junto a DFC retornar uma resposta conforme a acima, que não temos as informações solicitadas e que o expediente deve ser encaminhado diretamente a SEFAZ.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "JURÍDICO",
+      "submenu": "OUTROS DESPACHOS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "index": "51",
+      "name": " - Conta Corrente para Depósito Judicial",
+      "text": "À Assessoria Jurídica,\n\nPrezados, \n\nSegue dados do DETRAN/RS para depósito:\n\n- Depósito em Conta:\nDETRAN/RS  BANCO 041 - BANRISUL\nAG. 0100\nC/C 03.235.601.0-1\nCNPJ: 01.935.819/0001-03\n\n- PIX:\nChave PIX Aleatória: 88f45e0a-34f6-4666-9920-8791f5d1a8b2\n\nAtt,",
+      "numberFields": 1,
+      "menu": "JURÍDICO",
+      "submenu": "OUTROS DESPACHOS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "index": "38",
+      "name": " - CONFIRMAÇÃO PEÇAS/SERVIÇOS - DESFAZIMENTO",
+      "text": "À Coordenadoria de Leilões,\n\nConsiderando encaminhamento de desfazimento de Leilão do veículo $value0, solicitamos confirmação da realização dos serviços e colocação de peças no veículo, conforme Nota Fiscal ANEXO $value1, apresentadas pelo arrematante.\n\nAtt,",
+      "numberFields": 4,
+      "menu": "DEPÓSITO",
+      "submenu": "COORD.DE LEILÃO",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Placa",
+          "value": "",
+          "position": "left"
+        },
+        {
+          "id": 2,
+          "description": "Anexos e Fls",
+          "value": "",
+          "position": "left",
+          "placeholder": "Ex.: 13 (fl. 30) e 12 (fl. 34)",
+          "size": "300px"
+        },
+        {
+          "id": 3,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "index": "48",
+      "name": " - PAGAMENTO LIQUIDAÇÃO REALIZADA (BM / DLP-DETC)",
+      "text": "À Brigada Militar,\n\nPrezados,\n\nSegue expediente com pagamento da liquidação realizado.  \n\nAtt,",
+      "numberFields": 1,
+      "menu": "ORGAOS",
+      "submenu": "BRIGADA MILITAR",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "index": "49",
+      "name": " - SOLICITAÇÃO DE RETENÇÃO REALIZADA",
+      "text": "À Divisão de Infrações,\n\nPrezados,\n\nSegue expediente com Solicitação de Retenção realizada por esta DFC.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "DINFRA",
+      "submenu": "DESPACHOS GERAIS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "index": "50",
+      "name": " - INFORMAR O CRVA DA RETENÇÃO",
+      "text": "À Divisão de Infrações,\n\nPrezados,\n\nSolicitamos informar o CRVA que deve ser realizado a retenção pelo erro cometido.\n\nAtt,",
+      "numberFields": 1,
+      "menu": "DINFRA",
+      "submenu": "DESPACHOS GERAIS",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Data",
+          "value": "date",
+          "position": "center"
+        }
+      ]
+    },
+    {
+      "id": "f8e0",
+      "index": "52",
+      "name": "TESTE",
+      "text": "TESTE",
+      "numberFields": 0,
+      "menu": "TESTE",
+      "submenu": "TESTE",
+      "fields": []
+    }
+  ]
+}
