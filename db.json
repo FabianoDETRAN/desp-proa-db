@@ -980,8 +980,8 @@
       "name": " - SOLICITAÇÃO DE RETENÇÃO REALIZADA",
       "text": "À Divisão de Infrações,\n\nPrezados,\n\nSegue expediente com Solicitação de Retenção realizada por esta DFC.\n\nAtt,",
       "numberFields": 1,
-      "menu": "DINFRA",
-      "submenu": "DESPACHOS GERAIS",
+      "menu": "SETORES",
+      "submenu": "DINFRA",
       "fields": []
     },
     {
@@ -990,18 +990,18 @@
       "name": " - INFORMAR O CRVA DA RETENÇÃO",
       "text": "À Divisão de Infrações,\n\nPrezados,\n\nSolicitamos informar o CRVA que deve ser realizado a retenção pelo erro cometido.\n\nAtt,",
       "numberFields": 1,
-      "menu": "DINFRA",
-      "submenu": "DESPACHOS GERAIS",
+      "menu": "SETORES",
+      "submenu": "DINFRA",
       "fields": []
     },
     {
       "id": "f8e0",
       "index": "52",
-      "name": "TESTE",
-      "text": "Teste atualização dos dados GitHub",
+      "name": "- RETORNO CONTABILIZAÇÃO DEPÓSITO GERDAU",
+      "text": "À Coordenadoria de Fiscalização,\n\nPrezados,\n\nPara conhecimento e demais providências.\n\nAt",
       "numberFields": 0,
-      "menu": "DINFRA",
-      "submenu": "DESPACHOS GERAIS",
+      "menu": "SETORES",
+      "submenu": "CFISC",
       "fields": []
     }
   ]
