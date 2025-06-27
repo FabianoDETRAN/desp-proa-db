@@ -263,7 +263,7 @@
       "id": "15",
       "index": "15",
       "name": " - REAJUSTE IPCA: PROCERGS/OUTROS CONTRATADOS",
-      "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nRegistramos que validamos os cálculos do reajuste da folha $value0.\n\nEncaminhamos para complemento da SRO e Empenho do reajuste, conforme encaminhamento da DGC/Coordenadoria de Contratos às folhas $value1.\n\nAtt,",
+      "text": "À Divisão Financeira e Contábil e posteriormente à Coordenadoria de Contabilidade,\n\nPrezados,\n\nRegistramos que validamos os cálculos do reajuste da folha $value0.\n\nEncaminhamos para complemento da SRO e Empenho do reajuste, conforme encaminhamento da DGC/Coordenadoria de Contratos às folhas $value1.\n\nAtt,",
       "numberFields": 3,
       "menu": "DFC",
       "submenu": "DESPACHOS GERAIS",
