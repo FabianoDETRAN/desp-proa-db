@@ -262,25 +262,25 @@
     {
       "id": "15",
       "index": "15",
-      "name": " - APOSTILA PROCERGS",
+      "name": " - REAJUSTE IPCA: PROCERGS/OUTROS CONTRATADOS",
       "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nRegistramos que validamos os cálculos do reajuste da folha $value0.\n\nEncaminhamos para complemento da SRO e Empenho do reajuste, conforme encaminhamento da DGC/Coordenadoria de Contratos às folhas $value1.\n\nAtt,",
       "numberFields": 3,
-      "menu": "CONTABILIDADE",
-      "submenu": "OUTROS",
+      "menu": "DFC",
+      "submenu": "DESPACHOS GERAIS",
       "fields": [
         {
           "id": 1,
           "description": "Fl. Cálculo",
           "value": "",
           "position": "right",
-          "size": "80px."
+          "size": "100px"
         },
         {
           "id": 2,
           "description": "Fl. Manif.",
           "value": "",
           "position": "right",
-          "size": "80px"
+          "size": "100px"
         }
       ]
     },
