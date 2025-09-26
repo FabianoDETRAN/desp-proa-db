@@ -1003,6 +1003,16 @@
       "menu": "SETORES",
       "submenu": "CFISC",
       "fields": []
+    },
+    {
+      "id": "c393",
+      "index": "53",
+      "name": "- PAGAMENTO LIQUIDAÇÃO REALIZADA (PC / 600603)",
+      "text": "À Polícia Civil,\n\nPrezados,\n\nSegue expediente com pagamento da liquidação realizado.  \n\nAtt,",
+      "numberFields": 0,
+      "menu": "ORGAO",
+      "submenu": "POLÍCIA CIVIL",
+      "fields": []
     }
   ]
 }
