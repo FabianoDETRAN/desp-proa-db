@@ -344,7 +344,7 @@
       "id": "46",
       "index": "46",
       "name": " - CONFERÊNCIA PGTO MULTA DESMANCHE",
-      "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nEncaminhamos o presente expediente para conferência se houve ou não o pagamento da multa aplicada pela Coordenadoria de Fiscalização, conforme \n\nda folha $value0.\n\nAtt,",
+      "text": "À Coordenadoria de Contabilidade,\n\nPrezados,\n\nEncaminhamos o presente expediente para conferência se houve ou não o pagamento da multa aplicada pela Coordenadoria de Fiscalização, conforme manifestação da folha $value0.\n\nAtt,",
       "numberFields": 1,
       "menu": "CONTABILIDADE",
       "submenu": "OUTROS",
