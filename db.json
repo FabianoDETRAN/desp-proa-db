@@ -1022,6 +1022,25 @@
       "menu": "ORGAOS",
       "submenu": "POLÍCIA CIVIL",
       "fields": []
+    },
+    {
+      "id": "2d20",
+      "index": "54",
+      "name": "- CONFIRMAÇÃO CONVERSÃO DOS VALORES PARA RECEITA ORÇAMENTÁRIA",
+      "text": "À Coordenadoria de Fiscalização,\n\nPrezados,\n\nRetornamos o presente expediente com a confirmação da conversão dos valores para Receita Orçamentária, conforme manifestação da Coordenadoria de Contabilidade à folha $value0. \n\nPara conhecimento e demais providências.\n\nAtt,",
+      "numberFields": 0,
+      "menu": "SETORES",
+      "submenu": "CFISC",
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. Contabilidade",
+          "value": "",
+          "position": "left",
+          "placeholder": "",
+          "size": "100px"
+        }
+      ]
     }
   ]
 }
