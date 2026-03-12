@@ -998,11 +998,20 @@
       "id": "f8e0",
       "index": "52",
       "name": "- RETORNO CONTABILIZAÇÃO DEPÓSITO GERDAU",
-      "text": "À Coordenadoria de Fiscalização,\n\nPrezados,\n\nPara conhecimento e demais providências.\n\nAtt,",
+      "text": "À Coordenadoria de Fiscalização,\n\nPrezados,\n\nRetornamos o presente expediente com a confirmação do depósito dos valores informados, bem como, as suas respectivas contabilizações, conforme manifestação da Coordenadoria de Contabilidade à folha $value0. \n\nAtt,",
       "numberFields": 0,
       "menu": "SETORES",
       "submenu": "CFISC",
-      "fields": []
+      "fields": [
+        {
+          "id": 1,
+          "description": "Fl. Contabilidade",
+          "value": "",
+          "position": "left",
+          "placeholder": "",
+          "size": "100px"
+        }
+      ]
     },
     {
       "id": "c393",
